@@ -1,8 +1,15 @@
-# posts
+### Overview
+A react-redux application to create, add, and store posts. Main goal of this project is to learn redux through a react-redux posts tutorial. 
 
-A react-redux application to create, add, and store posts.
+### What I have learned
+* Used redux to manage the application's state.
 
-Main goal of this project is to learn redux through a react-redux posts tutorial. Dummy API calls are used from https://jsonplaceholder.typicode.com/.
+### Technology used
+* React
+* Redux
+
+### Notes
+Dummy API calls are used from https://jsonplaceholder.typicode.com/.
 
 To install dependencies
 
